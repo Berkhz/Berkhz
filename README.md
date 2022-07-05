@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kauan H. Bertalha</h1>
+<h1 align="center">Olá 👋, Meu nome é Kauan H. Bertalha</h1>
 <h3 align="center">Um futuro Desenvolvedor de Software em andamento :)</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
