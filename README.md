@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, Meu nome é Kauan Bertalha</h1>
-<h3 align="center">Um futuro Desenvolvedor de Software em andamento :)</h3>
+<h3 align="center">Um Estudante de Engenharia de Software em formação :)</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkhz&label=Profile%20views&color=0e75b6&style=flat" alt="berkhz" /> </p>
