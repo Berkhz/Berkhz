@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/b3rkhz" target="blank"><img src="https://img.shields.io/twitter/follow/b3rkhz?logo=twitter&style=for-the-badge" alt="b3rkhz" /></a> </p>
 
-- 🌱 Estou aprendendo **HTML, CSS, JavaScript, SQL, C#...**
+- 🌱 Estou aprendendo **HTML, CSS, JavaScript, SQL, C, C++, C#, Java...**
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/Berkhz?tab=repositories](https://github.com/Berkhz?tab=repositories)
 
