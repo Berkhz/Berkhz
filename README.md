@@ -15,7 +15,7 @@
   <img align="right" alt="berkhz-pic" height="150" style="border-radius:50px;" 
 </div>
   
-  
+  ##
  
 <div> 
   <a href="https://www.youtube.com/channel/UC6SmK6OuU0FQavGXNkl7ITA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
