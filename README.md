@@ -11,8 +11,7 @@
  
 </div>
  
-### Um jovem que gosta de joguinhos digitais e café!
-### Apaixonado por tecnologia, e vídeos sem sentido.
+### Um jovem que gosta de joguinhos digitais e café! Apaixonado por tecnologia, e vídeos sem sentido.
 #
 # Tecnologias que eu utilizo:
 
