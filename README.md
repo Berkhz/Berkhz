@@ -15,7 +15,7 @@
 
 🎮 **Apaixonado por tecnologia, café e joguinhos digitais.**  
 💻 **Desenvolvedor Back-End | Engenheiro de Software (6/8)**  
-🔹 **Foco em C#, .NET e bancos de dados SQL/PLSQL**  
+🔹 **Foco em C#, .NET e bancos de dados SQL/ORACLE/PLSQL**  
 
 ---
 
