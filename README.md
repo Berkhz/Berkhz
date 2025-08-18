@@ -18,7 +18,7 @@
 ### 💬 Sobre mim  
 
 🎮 Viciado em café, códigos e jogos
-👨‍💻 Estudante de Engenharia de Software (6/8)  
+👨‍💻 Estudante de Engenharia de Software (7/8)  
 🔧 Atuando como Dev Back-End com foco em C#, .NET e banco de dados  
 🚀 Sempre explorando novas formas de melhorar meu código e minhas soluções  
 
