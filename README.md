@@ -1,7 +1,7 @@
 ## 👋 Olá, eu sou o Kauan Bertalha!  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=5000&color=FF7F50&center=true&vCenter=true&lines=Desenvolvedor+Back-End;+Apaixonado+por+tecnologia;C%23+%7C+.NET+%7C+SQL+%7C+PLSQL" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=5000&color=FF7F50&center=true&vCenter=true&lines=Desenvolvedor+Back-End;+Aprendendo+React+para+Fullstack;+C%23+%7C+.NET+%7C+SQL+%7C+PLSQL" alt="Typing SVG">
 </div>
 
 <div align="center">
@@ -17,14 +17,15 @@
 
 ### 💬 Sobre mim  
 
-🎮 Viciado em café, códigos e jogos
-👨‍💻 Estudante de Engenharia de Software (7/8)  
-🔧 Atuando como Dev Back-End com foco em C#, .NET e banco de dados  
-🚀 Sempre explorando novas formas de melhorar meu código e minhas soluções  
+🎮 Viciado em café, códigos e jogos  
+👨‍💻 Estudante de Engenharia de Software  
+🔧 Desenvolvedor Back-End com foco em C#, .NET e bancos de dados  
+🚀 Aprendendo **React e TypeScript** para me tornar fullstack  
+💡 Apaixonado por tecnologia, sempre buscando melhorar minhas soluções e escrever código limpo  
 
 ---
 
-### 💻 Tecnologias que domino  
+### 💻 Tecnologias  
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
@@ -37,6 +38,8 @@
   <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 </div>
 
 ---
