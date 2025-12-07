@@ -43,10 +43,3 @@
 </div>
 
 ---
-
-### 📈 GitHub Stats  
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=berkhz&show_icons=true&theme=radical&border_radius=15">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkhz&layout=compact&langs_count=7&theme=radical&border_radius=15">
-</div>
