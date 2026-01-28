@@ -1,45 +1,52 @@
-## 👋 Olá, eu sou o Kauan Bertalha!  
+# 🦇 Kauan Bertalha
+**Software Engineer | Backend Specialist | Future Fullstack Developer**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=5000&color=FF7F50&center=true&vCenter=true&lines=Desenvolvedor+Back-End;+Aprendendo+React+para+Fullstack;+C%23+%7C+.NET+%7C+SQL+%7C+PLSQL" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=808080&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Architect;Future+Fullstack+(Web+%26+Mobile);Vigilant+about+Clean+Code" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<p align="center">
   <a href="https://www.linkedin.com/in/kauanbertalha" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/-LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://www.instagram.com/kauan_bertalha" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    <img src="https://img.shields.io/badge/-Instagram-111111?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-</div>
+</p>
 
 ---
 
-### 💬 Sobre mim  
+### 🌑 A Missão: Fullstack Mastery
 
-🎮 Viciado em café, códigos e jogos  
-👨‍💻 Estudante de Engenharia de Software  
-🔧 Desenvolvedor Back-End com foco em C#, .NET e bancos de dados  
-🚀 Aprendendo **React e TypeScript** para me tornar fullstack  
-💡 Apaixonado por tecnologia, sempre buscando melhorar minhas soluções e escrever código limpo  
+Sou um **Engenheiro de Software** focado em construir as fundações sólidas do mundo digital. Atualmente especializado em arquitetura **Backend**, estou em uma jornada contínua para dominar o desenvolvimento **Fullstack**, integrando soluções robustas de servidor com interfaces modernas para **Web e Mobile**.
+
+- 🏛️ **Especialidade:** Ecossistema .NET (C#) e otimização de queries complexas (SQL/PLSQL).
+- 🌐 **Web Front-end:** Evoluindo com React e TypeScript para criar interfaces de alta performance.
+- 📱 **Mobile Vision:** Expandindo horizontes para o desenvolvimento mobile nativo e híbrido.
+- 🛠️ **Filosofia:** "Código escalável é o herói silencioso de qualquer sistema."
 
 ---
 
-### 💻 Tecnologias  
+### 🛡️ O Arsenal Técnico
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Backend (Core)** | `C#` `.NET` `Delphi` `VBA` |
+| **Bancos de Dados** | `Oracle (PL/SQL)` `MySQL` `PostgreSQL` |
+| **Web & Mobile Prep** | `React` `TypeScript` `JavaScript` `HTML/CSS` |
+| **Infra & Ferramentas** | `Git` `Docker` `REST APIs` `Clean Architecture` |
+
+---
+
+### 📊 Vigilância de Código (Stats)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Berkhz&show_icons=true&theme=dark&count_private=true&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E&icon_color=FFFFFF" alt="Kauan's Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Berkhz&layout=compact&theme=dark&hide=html,css,delphi,vba&bg_color=0D1117&title_color=FFFFFF&text_color=8B949E" alt="Top Languages" height="180" />
+</p>
+
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/Oracle-FF0000?style=for-the-badge&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/Delphi-EE1C25?style=for-the-badge&logo=delphi&logoColor=white">
-  <img src="https://img.shields.io/badge/VBA-0175C2?style=for-the-badge&logo=visual-basic&logoColor=white">
-  <img src="https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-264DE4?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+  <sub>"Alguns homens querem apenas ver o mundo funcionar. Eu quero construir os sistemas que o fazem girar."</sub>
 </div>
-
----
