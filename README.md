@@ -1,9 +1,8 @@
 # Kauan Bertalha
-
 **Software Engineer · Backend Specialist · Fullstack in progress**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+%7C+.NET+%26+C%23;Building+Velo+(SaaS);Fullstack+in+progress+(Web+%26+Mobile);Clean+Code+advocate" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=8B949E&center=true&vCenter=true&width=500&lines=Software+Engineer;Backend+%7C+.NET+%26+C%23;Founder+of+KHRAWK+Labs;Building+Velo+(SaaS);Fullstack+in+progress+(Web+%26+Mobile);Clean+Code+advocate" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -27,7 +26,7 @@
 
 ### Sobre
 
-Engenheiro de Software com foco em **Backend**, atualmente expandindo para **Fullstack** — Web e Mobile. Gosto de sistemas bem estruturados, queries otimizadas e código que não precisa de explicação pra fazer sentido.
+Engenheiro de Software com foco em **Backend**, atualmente expandindo para **Fullstack**, Web e Mobile. Gosto de sistemas bem estruturados, queries otimizadas e código que não precisa de explicação pra fazer sentido.
 
 - **Backend:** .NET, C#
 - **Banco de Dados:** Oracle (PL/SQL), PostgreSQL, MySQL
@@ -38,7 +37,7 @@ Engenheiro de Software com foco em **Backend**, atualmente expandindo para **Ful
 
 ### 🚀 O que estou construindo
 
-**Velo** — SaaS multi-tenant de gestão para oficinas mecânicas, desenvolvido de ponta a ponta pela Alcateia Tecnologia (empresa que fundei). Ordens de serviço, financeiro, NFS-e e pagamentos num só lugar.
+**Velo** — SaaS multi-tenant de gestão para oficinas mecânicas, desenvolvido de ponta a ponta pela **KHRAWK Labs** (estúdio de software que fundei). Ordens de serviço, financeiro, NFS-e e pagamentos num só lugar.
 
 `.NET` `PostgreSQL` `React` `Redis` `Docker` `JWT`
 
